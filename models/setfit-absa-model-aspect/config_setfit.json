@@ -1,0 +1,9 @@
+{
+  "span_context": 0,
+  "normalize_embeddings": false,
+  "labels": [
+    "no aspect",
+    "aspect"
+  ],
+  "spacy_model": "en_core_web_lg"
+}

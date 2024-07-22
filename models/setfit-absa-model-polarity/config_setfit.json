@@ -1,0 +1,11 @@
+{
+  "span_context": 3,
+  "normalize_embeddings": false,
+  "labels": [
+    "conflict",
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "spacy_model": "en_core_web_lg"
+}
