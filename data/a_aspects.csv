@@ -1,0 +1,28 @@
+,positive,neutral,negative
+soda,3,6,0
+sweetness,1,0,0
+spice,1,0,0
+ingredients,0,2,3
+packaging design,0,0,1
+aftertaste,0,2,5
+flavor,1,0,1
+price,2,0,0
+packaging,2,1,4
+drinks,0,1,0
+ingredient list,1,0,1
+calories,1,1,0
+sweeteners,0,1,1
+calorie count,1,0,0
+calorie content,1,0,0
+ingredients list,0,1,1
+sodas,0,1,0
+affordability,1,0,0
+drink,0,1,0
+meal,1,0,0
+carbonation,1,0,0
+fizz,1,0,0
+additives,0,1,1
+preservatives,0,0,1
+signature,1,0,0
+calorie promise,0,1,0
+tastes,0,0,1

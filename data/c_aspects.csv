@@ -1,0 +1,24 @@
+,positive,neutral,negative
+teas,1,0,0
+flavor offerings,1,0,0
+ingredients,4,1,1
+flavor,2,0,0
+soda,0,1,0
+packaging,5,1,0
+flavors,2,1,1
+aftertaste,2,0,3
+drink,2,0,2
+content,1,0,0
+beverage,1,1,0
+packaging design,1,0,0
+product,0,0,1
+quality,1,1,0
+price,2,1,0
+taste,2,0,0
+cans,0,0,1
+bag,0,0,1
+availability,0,0,1
+drink choice,1,0,0
+stock,0,1,0
+hunt,1,0,0
+tea,0,1,0

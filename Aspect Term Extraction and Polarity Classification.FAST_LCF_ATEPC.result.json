@@ -1,0 +1,1 @@
+[{"sentence": "it was served very quickly .", "IOB": ["O", "O", "B-ASP", "O", "O", "O"], "tokens": ["it", "was", "served", "very", "quickly", "."], "aspect": ["served"], "position": [[2]], "sentiment": ["Positive"], "probs": [[0.00018741424719337374, 0.0003756693040486425, 0.9994369149208069]], "confidence": [0.9994]}]
